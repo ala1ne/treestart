@@ -9,3 +9,9 @@ bobbie:
    last_name: "someone"
    email: "bobbie@yahoo.com"
    profile_name: "bobbiesomeone_1"
+
+joshi:
+   first_name: "joshi"
+   last_name: "parker"
+   email: "joshi@yahoo.com"
+   profile_name: "joshiparker"
